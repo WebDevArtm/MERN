@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://um4k:20071990@cluster0.7svwa.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "Um4k best rapper",
+    "baseUrl": "http://localhost:5000"
+}
